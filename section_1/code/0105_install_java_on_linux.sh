@@ -10,3 +10,4 @@ sudo update-alternatives --config java
 
 # Check Java installation
 java -version
+
